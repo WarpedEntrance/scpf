@@ -1,4 +1,4 @@
-remote_theme: pdmosses/just-the-docs@callouts
+remote_theme: just-the-docs/just-the-docs
 
 logo: "/images/logos/foundation-logo.png"
 
@@ -6,21 +6,7 @@ footer_content: "Copyright &copy; 2017-2021 Administrator_Mr's SCP Foundation."
 
 color_scheme: scpf
 
-callouts:
-  important:
-    title: Important
-    color: red
-  caution:
-    title: Caution
-    color: yellow
-  hint:
-    title: Hint
-    color: green
-  information:
-    title: Information
-    color: blue
-
-search_enabled: false # There is no sufficient styling for the search feature.
+search_enabled: false
 
 last_edit_timestamp: false
 
