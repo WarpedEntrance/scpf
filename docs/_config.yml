@@ -10,6 +10,9 @@ search_enabled: false
 
 last_edit_timestamp: false
 
+url: "warpedentrance/scpf" # Ensure this is correct
+baseurl: "" # This should be empty unless you have a subpath
+
 gh_edit_link: true
 gh_edit_link_text: "Edit"
 gh_edit_repository: "warpedentrance/scpf"
