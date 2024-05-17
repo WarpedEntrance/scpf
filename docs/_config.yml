@@ -26,7 +26,7 @@ last_edit_timestamp: false
 
 gh_edit_link: true
 gh_edit_link_text: "Edit"
-gh_edit_repository: "https://warpedentrance.github.io/scpf/"
+gh_edit_repository: "warpedentrance/scpf"
 gh_edit_branch: "main"
-gh_edit_source: docs
+gh_edit_source: "docs"
 gh_edit_view_mode: "edit"
