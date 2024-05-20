@@ -2,22 +2,3 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-logo: "/images/logos/foundation-logo.png"
-
-footer_content: "Copyright &copy; 2017-2021 Administrator_Mr's SCP Foundation."
-
-color_scheme: scpf
-
-search_enabled: false
-
-last_edit_timestamp: false
-
-url: "warpedentrance/scpf" # Ensure this is correct
-baseurl: "" # This should be empty unless you have a subpath
-
-gh_edit_link: true
-gh_edit_link_text: "Edit"
-gh_edit_repository: "warpedentrance/scpf"
-gh_edit_branch: "main"
-gh_edit_source: "docs"
-gh_edit_view_mode: "edit"
